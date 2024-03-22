@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: d69f97a328a51ff44a20040a0c494825
+timeCreated: 1520487939
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: RR_Cart_001
+    100002: RR_Cart_002
+    100004: RR_Cart_BackBoards_001
+    100006: RR_Cart_BackBoards_002
+    100008: RR_Cart_BackBoards_003
+    100010: RR_Cart_Cover_001
+    100012: RR_Cart_Pole_001
+    100014: RR_Cart_Pole_002
+    100016: RR_Cart_Post_001
+    100018: RR_Cart_Post_002
+    100020: RR_Cart_Post_003
+    100022: RR_Cart_Post_004
+    100024: RR_Cart_Post_005
+    100026: RR_Cart_Post_006
+    100028: RR_Cart_SideBoards_001
+    100030: RR_Cart_SideBoards_002
+    100032: RR_Cart_SideBoards_003
+    100034: RR_Cart_SideBoards_004
+    100036: RR_Cart_SideBoards_005
+    100038: RR_Cart_SideBoards_006
+    100040: RR_Cart_Wheel_001
+    100042: RR_Cart_Wheel_002
+    100044: //RootNode
+    400000: RR_Cart_001
+    400002: RR_Cart_002
+    400004: RR_Cart_BackBoards_001
+    400006: RR_Cart_BackBoards_002
+    400008: RR_Cart_BackBoards_003
+    400010: RR_Cart_Cover_001
+    400012: RR_Cart_Pole_001
+    400014: RR_Cart_Pole_002
+    400016: RR_Cart_Post_001
+    400018: RR_Cart_Post_002
+    400020: RR_Cart_Post_003
+    400022: RR_Cart_Post_004
+    400024: RR_Cart_Post_005
+    400026: RR_Cart_Post_006
+    400028: RR_Cart_SideBoards_001
+    400030: RR_Cart_SideBoards_002
+    400032: RR_Cart_SideBoards_003
+    400034: RR_Cart_SideBoards_004
+    400036: RR_Cart_SideBoards_005
+    400038: RR_Cart_SideBoards_006
+    400040: RR_Cart_Wheel_001
+    400042: RR_Cart_Wheel_002
+    400044: //RootNode
+    2300000: RR_Cart_001
+    2300002: RR_Cart_002
+    2300004: RR_Cart_BackBoards_001
+    2300006: RR_Cart_BackBoards_002
+    2300008: RR_Cart_BackBoards_003
+    2300010: RR_Cart_Cover_001
+    2300012: RR_Cart_Pole_001
+    2300014: RR_Cart_Pole_002
+    2300016: RR_Cart_Post_001
+    2300018: RR_Cart_Post_002
+    2300020: RR_Cart_Post_003
+    2300022: RR_Cart_Post_004
+    2300024: RR_Cart_Post_005
+    2300026: RR_Cart_Post_006
+    2300028: RR_Cart_SideBoards_001
+    2300030: RR_Cart_SideBoards_002
+    2300032: RR_Cart_SideBoards_003
+    2300034: RR_Cart_SideBoards_004
+    2300036: RR_Cart_SideBoards_005
+    2300038: RR_Cart_SideBoards_006
+    2300040: RR_Cart_Wheel_001
+    2300042: RR_Cart_Wheel_002
+    3300000: RR_Cart_001
+    3300002: RR_Cart_002
+    3300004: RR_Cart_BackBoards_001
+    3300006: RR_Cart_BackBoards_002
+    3300008: RR_Cart_BackBoards_003
+    3300010: RR_Cart_Cover_001
+    3300012: RR_Cart_Pole_001
+    3300014: RR_Cart_Pole_002
+    3300016: RR_Cart_Post_001
+    3300018: RR_Cart_Post_002
+    3300020: RR_Cart_Post_003
+    3300022: RR_Cart_Post_004
+    3300024: RR_Cart_Post_005
+    3300026: RR_Cart_Post_006
+    3300028: RR_Cart_SideBoards_001
+    3300030: RR_Cart_SideBoards_002
+    3300032: RR_Cart_SideBoards_003
+    3300034: RR_Cart_SideBoards_004
+    3300036: RR_Cart_SideBoards_005
+    3300038: RR_Cart_SideBoards_006
+    3300040: RR_Cart_Wheel_001
+    3300042: RR_Cart_Wheel_002
+    4300000: RR_Cart_001
+    4300002: RR_Cart_Wheel_001
+    4300004: RR_Cart_Wheel_002
+    4300006: RR_Cart_002
+    4300008: RR_Cart_Pole_001
+    4300010: RR_Cart_Pole_002
+    4300012: RR_Cart_Post_001
+    4300014: RR_Cart_Post_002
+    4300016: RR_Cart_Post_003
+    4300018: RR_Cart_Post_004
+    4300020: RR_Cart_Post_005
+    4300022: RR_Cart_Post_006
+    4300024: RR_Cart_SideBoards_001
+    4300026: RR_Cart_SideBoards_002
+    4300028: RR_Cart_SideBoards_003
+    4300030: RR_Cart_SideBoards_004
+    4300032: RR_Cart_SideBoards_005
+    4300034: RR_Cart_SideBoards_006
+    4300036: RR_Cart_BackBoards_001
+    4300038: RR_Cart_BackBoards_002
+    4300040: RR_Cart_BackBoards_003
+    4300042: RR_Cart_Cover_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

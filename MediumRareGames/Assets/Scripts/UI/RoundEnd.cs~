@@ -1,0 +1,46 @@
+﻿/*
+-----------------------------------------------------------------------------
+       Created By Zachary Pilon/Wesley Ducharme
+----------------------------------------------------------------------------- 
+   RoundEnd
+       - Handles displaying visual elements of the players' progression through the 
+       game by showing the current amount of wins each player has at the end of each
+       round.
+
+   Details:
+       - Uses a prefab UI element that will display visually how close each player is
+       to winning, as well as showing the current amount of wins that player has.
+-----------------------------------------------------------------------------
+*/
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using System;
+
+public class RoundEnd : MonoBehaviour
+{
+    [SerializeField] private GameObject m_winDisplayPrefab;
+    [SerializeField] private Transform m_winDisplayContainer;
+    [SerializeField] private MenuController menuController;
+    [SerializeField] private GameObject selectButton;
+
+    /// <summary>Initialization</summary>
+    private void Start()
+    {
+        //Setup the player win displays
+        foreach(Player player in Lobby.GetLobbiedPlayers())
+        {
+            //Instantiate a win display for every player
+            WinDisplay winDisplay = Instantiate(m_winDisplayPrefab, m_winDisplayContainer).GetComponent<WinDisplay>();
+            
+            //Set the values appropriately
+            winDisplay.Name = player.playerName;
+            winDisplay.Wins = MatchHandler.WinTracker[player.playerName]; //Use win tracker for the wins
+            winDisplay.Color = player.baseColor;
+        }
+
+        menuController?.Btn_SelectObject(selectButton);
+    }
+}

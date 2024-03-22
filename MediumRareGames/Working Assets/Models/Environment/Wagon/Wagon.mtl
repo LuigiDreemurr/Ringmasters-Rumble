@@ -1,0 +1,80 @@
+newmtl wire_088199225
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Wagon_wire_088199225_color.tga
+map_bump Wagon_wire_088199225_nmap.tga
+newmtl wire_087225143
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Wagon_wire_088199225_color.tga
+map_bump Wagon_wire_088199225_nmap.tga
+newmtl wire_228153184
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Wagon_wire_088199225_color.tga
+map_bump Wagon_wire_088199225_nmap.tga
+newmtl wire_196088225
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Wagon_wire_088199225_color.tga
+map_bump Wagon_wire_088199225_nmap.tga
+newmtl wire_141007058
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Wagon_wire_088199225_color.tga
+map_bump Wagon_wire_088199225_nmap.tga
+newmtl wire_148177027
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Wagon_wire_088199225_color.tga
+map_bump Wagon_wire_088199225_nmap.tga
+newmtl wire_177028149
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Wagon_wire_088199225_color.tga
+map_bump Wagon_wire_088199225_nmap.tga
+newmtl wire_088144225
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Wagon_wire_088199225_color.tga
+map_bump Wagon_wire_088199225_nmap.tga

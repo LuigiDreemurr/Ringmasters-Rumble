@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7e9b3ed4cb4d2479e26846ed5f6114, type: 3}
+  m_Name: BuilderSettings
+  m_EditorClassIdentifier: 
+  m_tilePrefab: {fileID: 1628161762408506, guid: ec815890f11d3324d94db18de245d89b,
+    type: 2}
+  m_elevationY: 10
+  m_minElevation: -1
+  m_maxElevation: 1
+  m_expandToDepth: -12
+  m_tileMaterials:
+  - {fileID: 2100000, guid: 68c7ec7890841eb45ab49c6e75ae85a8, type: 2}
+  - {fileID: 2100000, guid: 11f9e5c088bc2004484ad9d151c7ef8f, type: 2}
+  - {fileID: 2100000, guid: bef91ea6c5d763041855fd87bc916bca, type: 2}

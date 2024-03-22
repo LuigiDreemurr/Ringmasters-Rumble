@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5fe36f14b8e94b44a60cef9adacf28e, type: 3}
+  m_Name: Tiki
+  m_EditorClassIdentifier: 
+  m_type: 0
+  m_sprite: {fileID: 21300000, guid: 05b23d59337c5dd47ad6100631a78389, type: 3}
+  m_prefab: {fileID: 1775366955940072, guid: c974ceb34604a5d4a81b640afe2eab08, type: 2}

@@ -1,0 +1,8 @@
+There are two main types of settings you should be worrying about.
+
+1. Settings we want attached to Global Settings (IE GumballLauncher settings). When we get access through the GlobalSettings class it lets us have multiple settings assets for the same type. 
+Allowing us to easily swap out settings configurations while testing.
+
+2. Singleton settings loaded from Resources folder (IE Level Builder settings). There should only be one asset for this setting type. 
+
+Look at the different weapon settings and then the level builder settings to know what I'm talking about 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1040264c46ca4884ba9d1a880d16b509, type: 3}
+  m_Name: WeaponPickupSettings
+  m_EditorClassIdentifier: 
+  m_weapons:
+  - m_type: 0
+    m_prefab: {fileID: 1669525205762830, guid: f6b9838a685ff64428879790ec75735b, type: 2}
+    m_available: 1
+  - m_type: 1
+    m_prefab: {fileID: 1213562596082736, guid: ec507b0f51eeb4d4593307cd285d5f0d, type: 2}
+    m_available: 1
+  - m_type: 2
+    m_prefab: {fileID: 1349453727687986, guid: e4ea51aaef52bfb4f9501f4a0a84b150, type: 2}
+    m_available: 1
+  m_pickupSpawnOffset: {x: 0, y: 50, z: 0}
+  m_initialSpawnDelay: 8
+  m_spawnRate: 8
+  m_minChestRot: -45
+  m_maxChestRot: 45

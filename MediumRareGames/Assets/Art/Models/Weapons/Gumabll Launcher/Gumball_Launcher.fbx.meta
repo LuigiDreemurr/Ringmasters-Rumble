@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 6e322822f5ce55244a27037df12c31e4
+timeCreated: 1518663442
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Gumball_ArmSight
+    100002: Gumball_Barell
+    100004: Gumball_Barell_Guard
+    100006: Gumball_Body_Bot
+    100008: Gumball_Body_Top
+    100010: Gumball_Glass
+    100012: Gumball_Glass_Top
+    100014: Gumball_Grip
+    100016: //RootNode
+    100018: Gumball_Sight
+    100020: Gumball_Spiral
+    100022: Gumball_Tape
+    100024: Gumball_Trigger
+    400000: Gumball_ArmSight
+    400002: Gumball_Barell
+    400004: Gumball_Barell_Guard
+    400006: Gumball_Body_Bot
+    400008: Gumball_Body_Top
+    400010: Gumball_Glass
+    400012: Gumball_Glass_Top
+    400014: Gumball_Grip
+    400016: //RootNode
+    400018: Gumball_Sight
+    400020: Gumball_Spiral
+    400022: Gumball_Tape
+    400024: Gumball_Trigger
+    2300000: Gumball_ArmSight
+    2300002: Gumball_Barell
+    2300004: Gumball_Barell_Guard
+    2300006: Gumball_Body_Bot
+    2300008: Gumball_Body_Top
+    2300010: Gumball_Glass
+    2300012: Gumball_Glass_Top
+    2300014: Gumball_Grip
+    2300016: Gumball_Sight
+    2300018: Gumball_Spiral
+    2300020: Gumball_Tape
+    2300022: Gumball_Trigger
+    3300000: Gumball_ArmSight
+    3300002: Gumball_Barell
+    3300004: Gumball_Barell_Guard
+    3300006: Gumball_Body_Bot
+    3300008: Gumball_Body_Top
+    3300010: Gumball_Glass
+    3300012: Gumball_Glass_Top
+    3300014: Gumball_Grip
+    3300016: Gumball_Sight
+    3300018: Gumball_Spiral
+    3300020: Gumball_Tape
+    3300022: Gumball_Trigger
+    4300000: Gumball_Trigger
+    4300002: Gumball_Grip
+    4300004: Gumball_Barell
+    4300006: Gumball_Body_Bot
+    4300008: Gumball_Body_Top
+    4300010: Gumball_Glass_Top
+    4300012: Gumball_Glass
+    4300014: Gumball_Barell_Guard
+    4300016: Gumball_ArmSight
+    4300018: Gumball_Sight
+    4300020: Gumball_Spiral
+    4300022: Gumball_Tape
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 680d1cba007afd94687613189764452b
+timeCreated: 1522123843
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Box001
+    100002: GrassBlade00
+    100004: GrassBlade00 1
+    100006: GrassBlade00 2
+    100008: GrassBlade00 3
+    100010: GrassBlade00 4
+    100012: GrassBlade01
+    100014: GrassBlade01 1
+    100016: GrassBlade01 2
+    100018: GrassBlade01 3
+    100020: GrassBlade01 4
+    100022: GrassBlade02
+    100024: GrassBlade02 1
+    100026: GrassBlade02 2
+    100028: GrassBlade02 3
+    100030: GrassBlade02 4
+    100032: GrassBlade03
+    100034: GrassBlade03 1
+    100036: GrassBlade03 2
+    100038: GrassBlade03 3
+    100040: GrassBlade03 4
+    100042: GrassBlade04
+    100044: GrassBlade04 1
+    100046: GrassBlade04 2
+    100048: GrassBlade05
+    100050: GrassBlade05 1
+    100052: GrassBlade05 2
+    100054: GrassBlade06
+    100056: GrassBlade06 1
+    100058: GrassBlade06 2
+    100060: GrassBlade07
+    100062: GrassBlade07 1
+    100064: GrassBlade08
+    100066: GrassBlade08 1
+    100068: //RootNode
+    400000: Box001
+    400002: GrassBlade00
+    400004: GrassBlade00 1
+    400006: GrassBlade00 2
+    400008: GrassBlade00 3
+    400010: GrassBlade00 4
+    400012: GrassBlade01
+    400014: GrassBlade01 1
+    400016: GrassBlade01 2
+    400018: GrassBlade01 3
+    400020: GrassBlade01 4
+    400022: GrassBlade02
+    400024: GrassBlade02 1
+    400026: GrassBlade02 2
+    400028: GrassBlade02 3
+    400030: GrassBlade02 4
+    400032: GrassBlade03
+    400034: GrassBlade03 1
+    400036: GrassBlade03 2
+    400038: GrassBlade03 3
+    400040: GrassBlade03 4
+    400042: GrassBlade04
+    400044: GrassBlade04 1
+    400046: GrassBlade04 2
+    400048: GrassBlade05
+    400050: GrassBlade05 1
+    400052: GrassBlade05 2
+    400054: GrassBlade06
+    400056: GrassBlade06 1
+    400058: GrassBlade06 2
+    400060: GrassBlade07
+    400062: GrassBlade07 1
+    400064: GrassBlade08
+    400066: GrassBlade08 1
+    400068: //RootNode
+    2300000: Box001
+    2300002: GrassBlade00
+    2300004: GrassBlade00 1
+    2300006: GrassBlade00 2
+    2300008: GrassBlade00 3
+    2300010: GrassBlade00 4
+    2300012: GrassBlade01
+    2300014: GrassBlade01 1
+    2300016: GrassBlade01 2
+    2300018: GrassBlade01 3
+    2300020: GrassBlade01 4
+    2300022: GrassBlade02
+    2300024: GrassBlade02 1
+    2300026: GrassBlade02 2
+    2300028: GrassBlade02 3
+    2300030: GrassBlade02 4
+    2300032: GrassBlade03
+    2300034: GrassBlade03 1
+    2300036: GrassBlade03 2
+    2300038: GrassBlade03 3
+    2300040: GrassBlade03 4
+    2300042: GrassBlade04
+    2300044: GrassBlade04 1
+    2300046: GrassBlade04 2
+    2300048: GrassBlade05
+    2300050: GrassBlade05 1
+    2300052: GrassBlade05 2
+    2300054: GrassBlade06
+    2300056: GrassBlade06 1
+    2300058: GrassBlade06 2
+    2300060: GrassBlade07
+    2300062: GrassBlade07 1
+    2300064: GrassBlade08
+    2300066: GrassBlade08 1
+    3300000: Box001
+    3300002: GrassBlade00
+    3300004: GrassBlade00 1
+    3300006: GrassBlade00 2
+    3300008: GrassBlade00 3
+    3300010: GrassBlade00 4
+    3300012: GrassBlade01
+    3300014: GrassBlade01 1
+    3300016: GrassBlade01 2
+    3300018: GrassBlade01 3
+    3300020: GrassBlade01 4
+    3300022: GrassBlade02
+    3300024: GrassBlade02 1
+    3300026: GrassBlade02 2
+    3300028: GrassBlade02 3
+    3300030: GrassBlade02 4
+    3300032: GrassBlade03
+    3300034: GrassBlade03 1
+    3300036: GrassBlade03 2
+    3300038: GrassBlade03 3
+    3300040: GrassBlade03 4
+    3300042: GrassBlade04
+    3300044: GrassBlade04 1
+    3300046: GrassBlade04 2
+    3300048: GrassBlade05
+    3300050: GrassBlade05 1
+    3300052: GrassBlade05 2
+    3300054: GrassBlade06
+    3300056: GrassBlade06 1
+    3300058: GrassBlade06 2
+    3300060: GrassBlade07
+    3300062: GrassBlade07 1
+    3300064: GrassBlade08
+    3300066: GrassBlade08 1
+    4300000: GrassBlade00
+    4300002: GrassBlade01
+    4300004: GrassBlade02
+    4300006: Box001
+    4300008: GrassBlade08
+    4300010: GrassBlade04
+    4300012: GrassBlade05
+    4300014: GrassBlade06
+    4300016: GrassBlade03
+    4300018: GrassBlade07
+    4300020: GrassBlade00
+    4300022: GrassBlade01
+    4300024: GrassBlade02
+    4300026: GrassBlade03
+    4300028: GrassBlade04
+    4300030: GrassBlade05
+    4300032: GrassBlade06
+    4300034: GrassBlade07
+    4300036: GrassBlade08
+    4300038: GrassBlade06
+    4300040: GrassBlade04
+    4300042: GrassBlade03
+    4300044: GrassBlade02
+    4300046: GrassBlade00
+    4300048: GrassBlade01
+    4300050: GrassBlade05
+    4300052: GrassBlade03
+    4300054: GrassBlade00
+    4300056: GrassBlade01
+    4300058: GrassBlade02
+    4300060: GrassBlade01
+    4300062: GrassBlade00
+    4300064: GrassBlade03
+    4300066: GrassBlade02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

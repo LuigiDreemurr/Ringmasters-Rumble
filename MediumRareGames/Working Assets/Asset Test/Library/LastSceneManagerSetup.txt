@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Trevor/Documents/GitHub/MediumRareGames/Assets/Scenes/Temp/Model
+    Resizing.unity
+  isLoaded: 1
+  isActive: 1
